@@ -11,7 +11,7 @@
 // @grant		GM_addStyle
 // @grant		GM_getValue
 // @grant		GM_setValue
-// @icon		https://cdn.rawgit.com/MegaScratchUserscript/Mega-Scratch-Userscript/master/resources/icon.png
+// @icon		https://cdn.rawgit.com/Hans5958/Mega-Scratch-Userscript/master/resources/icon.png
 // @resource	settingshtml resources/settings.htmlpart
 // @resource	settingscss2 resources/settings2.css
 // @resource	theme resources/theme.csspart
