@@ -112,7 +112,7 @@ msuParts["scratchyStuff"] = function(ScratchUserscript){
 		if (ScratchUserscript.getPageType().type == "project") {
 			// Editor "Scratchy Stuff" button
 			createButton();
-			
+			/*
 			// Download Button
 			if(settings.download){
 				$('#see-inside').parent().before($(
@@ -120,7 +120,7 @@ msuParts["scratchyStuff"] = function(ScratchUserscript){
 					).click(unsafeWindow.JSdownloadProject));
 				$('#see-inside').parent().css('display', 'inline-block');
 			}
-			
+			*/
 			// Phosperous/Scratchblocks buttons Buttons
 			var currenthref = window.location.pathname.slice(10, -1);
 			if(settings.scratchblocks){
